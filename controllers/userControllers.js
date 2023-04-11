@@ -12,12 +12,6 @@ Get request json file structure
     }
 
 
-You need to complete the controller for user signupUser.
-you need to register the user.
-Complete the schema and to look the user schema look ../models/user.js
-you should hash the password using bcrypt before saving it.
-
-
 
 Response on different scenario
 
